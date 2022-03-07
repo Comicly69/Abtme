@@ -1,5 +1,4 @@
 Hi there 👋
-I'm an 18 year old selft-taught amateur programmer.
 
 I’m currently working on
 Mojmaker (A minecraft mod,texture pack & feature developing program).
