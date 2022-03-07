@@ -1,8 +1,11 @@
 Hi there 👋
 
 I’m currently working on
+
 Mojmaker (A minecraft mod,texture pack & feature developing program).
+
 AmethystClient (An Open-source minecraft hacked client).
+
 AmethystDisplay (A repo made beside Amethystclient for making a Click-gui).
 
 Random stuff
