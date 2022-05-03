@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Comicly69&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
 </p>
 
