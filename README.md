@@ -24,6 +24,8 @@ AmethystDisplay (A repo made beside Amethystclient for making a Click-gui).
 
 CherryCL (A Open-Source Minecraft client for CherryPR.minehut.gg)
 
+Radiant (QOL Command line interface)
+
 # Random stuff
 
 My website
@@ -42,6 +44,10 @@ C++
 Css
 
 HTML
+
+Python
+
+Batch
 
 # Contact me with:
 
