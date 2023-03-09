@@ -32,7 +32,7 @@ My website
 
 You can ask me about anything you want
 
-What coding langauges do I know (Most of them I am still learning:
+What coding langauges do I know (Most of them I am still learning):
 
 
 Java
