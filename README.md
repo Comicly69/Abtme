@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Comicly&&show_icons=true&&count_private=true&title_color=F7B065&icon_color=F7B065&text_color=f9e6d8&bg_color=45,6B0B5E,680729&hide_border=true">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 Hi there 👋
