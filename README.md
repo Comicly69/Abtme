@@ -1,6 +1,4 @@
-<p align="left">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Comicly69&style=flat&labelColor=black&logo=github&label=Profile+Views&color=0d8ce0"/>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
