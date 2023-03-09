@@ -16,13 +16,13 @@ I am a self tought, Programmer that is still learning alot. If you want to help 
 
 # I’m currently working on
 
-Mojmaker (A minecraft mod,texture pack & feature developing program).
+pytools (Python tools library for many diffrent uses).
 
-AmethystClient (An Open-source minecraft hacked client).
+poly (cryptocurrency).
 
-AmethystDisplay (A repo made beside Amethystclient for making a Click-gui).
+Mint (Windows package manager).
 
-CherryCL (A Open-Source Minecraft client for CherryPR.minehut.gg)
+Order (Python food ordering CLI)
 
 Radiant (QOL Command line interface)
 
