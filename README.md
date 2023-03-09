@@ -1,6 +1,4 @@
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comicly69)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 Hi there 👋
 
