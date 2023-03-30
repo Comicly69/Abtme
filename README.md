@@ -10,7 +10,7 @@ pytools (Python tools library for many diffrent uses).
 
 poly (cryptocurrency).
 
-Mint (Windows package manager).
+Mint (Cross os package manager).
 
 Order (Python food ordering CLI)
 
