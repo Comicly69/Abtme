@@ -1,18 +1,16 @@
 Hi there 👋
 
-I am a self tought, Programmer that is still learning alot. If you want to help me you are welcome to contact me
+I am a self tought, Programmer that is still learning a lot. If you want to help me you are welcome to contact me
 
 # I’m currently working on
 
-pytools (Python tools library for many diffrent uses).
+[Duo (Bash terminal extention.)](https://github.com/Comicly69/duo)
 
-poly (cryptocurrency).
+[SSC (Secure site certificate).](https://github.com/Comicly69/ssc)
 
-Mint (Cross os package manager).
+[Mint (Cross os package manager).](https://github.com/Comicly69/mint
 
-Order (Python food ordering CLI)
-
-Radiant (QOL Command line interface)
+Beanie (Project to open-soruce common viruses and find fixes for them.)
 
 # Skills
 
