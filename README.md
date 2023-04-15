@@ -23,6 +23,9 @@ Radiant (QOL Command line interface)
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Comicly69&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/> 
 
+# Top languages
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvsakib&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/> 
+
 # Contact me with:
 
 Discord: Comicly#5090
