@@ -22,22 +22,9 @@ My website
 
 You can ask me about anything you want
 
-What coding langauges do I know (Most of them I am still learning):
+My skills:
 
-
-Java
-
-C
-
-C++
-
-Css
-
-HTML
-
-Python
-
-Batch
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,github,linux,mongodb,)](https://skillicons.dev)
 
 # Contact me with:
 
