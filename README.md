@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comicly69)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi there 👋
 
 I am a self tought, Programmer that is still learning alot. If you want to help me you are welcome to contact me
@@ -16,15 +14,14 @@ Order (Python food ordering CLI)
 
 Radiant (QOL Command line interface)
 
-# Random stuff
-
-My website
-
-You can ask me about anything you want
-
-My skills:
+# Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,bash,github,linux,mongodb,)](https://skillicons.dev)
+
+# Stats
+![comicly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Comicly69&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Comicly69&show_icons=true&theme=react&include_all_commit=true&count_private=true&hide_border=true&bg_color=0D1117"/> 
 
 # Contact me with:
 
