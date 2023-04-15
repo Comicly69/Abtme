@@ -4,13 +4,13 @@ I am a self tought, Programmer that is still learning a lot. If you want to help
 
 # I’m currently working on
 
-[Duo (Bash terminal extention.)](https://github.com/Comicly69/duo)
+[Duo (Bash terminal extention)](https://github.com/Comicly69/duo)
 
-[SSC (Secure site certificate).](https://github.com/Comicly69/ssc)
+[SSC (Secure site certificate)](https://github.com/Comicly69/ssc)
 
-[Mint (Cross os package manager).](https://github.com/Comicly69/mint
+[Mint (Cross os package manager)](https://github.com/Comicly69/mint)
 
-Beanie (Project to open-soruce common viruses and find fixes for them.)
+[Beanie (Project to open-soruce common viruses and find fixes for them)](https://github.com/Comicly69/beanie)
 
 # Skills
 
