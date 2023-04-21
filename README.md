@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<h1>Hi there! 👋</h1>
 
 I am a self tought, Programmer that is still learning a lot. If you want to help me you are welcome to contact me
 
