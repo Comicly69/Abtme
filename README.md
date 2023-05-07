@@ -14,8 +14,7 @@ I am a self tought, Programmer that is still learning a lot. If you want to help
 
 [Beanie](https://github.com/Comicly69/beanie) (Project aimed to help users block malicious attacks before they happen using firewalls)
 
-[Kinetic](https://github.com/Comicly69/kinetic) (A nfc-based card to be your entire wallet in one card, with multi-currency capabilities and support for
-all cards globally, It is one card, infinite possiblities)
+[Kinetic](https://github.com/Comicly69/kinetic) (A nfc-based card to be your entire wallet in one card, with multi-currency capabilities and support for all cards globally, It is one card, infinite possiblities)
 
 # Skills
 
