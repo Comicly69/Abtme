@@ -12,7 +12,10 @@ I am a self tought, Programmer that is still learning a lot. If you want to help
 
 [Mint](https://github.com/Comicly69/mint) (Cross os package manager)
 
-[Beanie](https://github.com/Comicly69/beanie) (Project aimed to open-soruce common viruses and find fixes for them)
+[Beanie](https://github.com/Comicly69/beanie) (Project aimed to help users block malicious attacks before they happen using firewalls)
+
+[Kinetic](https://github.com/Comicly69/kinetic) (A nfc-based card to be your entire wallet in one card, with multi-currency capabilities and support for
+all cards globally, It is one card, infinite possiblities)
 
 # Skills
 
