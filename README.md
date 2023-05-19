@@ -2,7 +2,7 @@
 
 ### `npx Comicly69`
 
-I am a self tought, Programmer that is still learning a lot. If you want to help me you are welcome to contact me
+I am a self tought Programmer that is still learning a lot. If you want to help me you are welcome to contact me
 
 # I’m currently working on
 
