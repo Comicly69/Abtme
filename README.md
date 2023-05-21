@@ -10,7 +10,7 @@ I am a self tought Programmer that is still learning a lot. If you want to help 
 
 [SSC](https://github.com/Comicly69/ssc) (Secure site certificate)
 
-[Mint](https://github.com/Comicly69/mint) (Cross os package manager)
+[Mint](https://github.com/Comicly69/mint) (Cross os package manager, Private for now)
 
 [Beanie](https://github.com/Comicly69/beanie) (Project aimed to help users block malicious attacks before they happen using firewalls)
 
