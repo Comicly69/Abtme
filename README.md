@@ -6,6 +6,8 @@ I am a self tought Programmer that is still learning a lot. If you want to help 
 
 # I’m currently working on
 
+[Kinetic](https://github.com/Comicly69/kinetic) (A card used to be your entire wallet in one, supports all currency and cards globally, Including crypto)
+
 [Duo](https://github.com/Comicly69/duo) (Bash terminal extention)
 
 [SSC](https://github.com/Comicly69/ssc) (Secure site certificate)
@@ -13,8 +15,6 @@ I am a self tought Programmer that is still learning a lot. If you want to help 
 [Mint](https://github.com/Comicly69/mint) (Cross os package manager, Private for now)
 
 [Beanie](https://github.com/Comicly69/beanie) (Project aimed to help users block malicious attacks before they happen using firewalls)
-
-[Kinetic](https://github.com/Comicly69/kinetic) (A card used to be your entire wallet in one, supports all currency and cards globally, Including crypto)
 
 # Skills
 
