@@ -2,7 +2,7 @@
 
 ### `npx Comicly69`
 
-I am a self tought Programmer that is still learning a lot. If you want to help me you are welcome to contact me
+I'm a student and programmer that loves cats. If you would like to contact me, you can message me on discord @Comicly#5090
 
 # I’m currently working on
 
