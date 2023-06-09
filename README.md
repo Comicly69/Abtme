@@ -1,6 +1,22 @@
 <h1>Hi there! 👋</h1>
 
-### `npx Comicly69`
+```javascript
+const Comicly = {
+  name: 'Comicly',
+  role: 'Backend Developer',
+  skills: ['JavaScript', 'Node.js', 'Python', 'Kotlin', 'Batch', 'Shell'],
+  learning: ['Mojo, React, Web development']
+  database: ['MongoDB'],
+  versionControl: 'Git',
+  website: 'https://Comicly.is-a.dev',
+  bio: 'Crafting powerful applications.',
+  getIntroduction() {
+    return `Greetings! I'm ${this.name}, a passionate ${this.role} with expertise in ${this.skills.join(', ')}. ${this.bio} Check out my website at [${this.website}](${this.website}). Let's collaborate together! ✨🔥`;
+  },
+};
+
+console.log(Comicly.getIntroduction());
+```
 
 I'm a student and programmer that loves cats. If you would like to contact me, you can message me on discord @Comicly#5090
 
