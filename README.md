@@ -5,7 +5,7 @@ const Comicly = {
   name: 'Comicly',
   role: 'Backend Developer',
   skills: ['JavaScript', 'Node.js', 'Python', 'Kotlin', 'Batch', 'Shell'],
-  learning: ['Mojo, React, Web development']
+  learning: ['Mojo, React, Web development'],
   database: ['MongoDB'],
   versionControl: 'Git',
   website: 'https://Comicly.is-a.dev',
