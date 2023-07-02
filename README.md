@@ -9,7 +9,7 @@ const Comicly = {
   database: ['MongoDB'],
   versionControl: 'Git',
   website: 'https://Comicly.is-a.dev',
-  bio: 'Crafting powerful applications.',
+  bio: 'I love cats and music.',
   getIntroduction() {
     return `Greetings! I'm ${this.name}, a passionate ${this.role} with expertise in ${this.skills.join(', ')}. ${this.bio} Check out my website at [${this.website}](${this.website}). Let's collaborate together! ✨🔥`;
   },
