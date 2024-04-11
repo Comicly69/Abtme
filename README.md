@@ -46,4 +46,4 @@ I'm a student and programmer that loves cats. If you would like to contact me, y
 
 # Contact me with:
 
-Discord: Comicly#5090
+Discord: mbymax
