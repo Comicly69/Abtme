@@ -18,7 +18,7 @@ const Comicly = {
 console.log(Comicly.getIntroduction());
 ```
 
-I'm a student and programmer that loves cats. If you would like to contact me, you can message me on discord @Comicly#5090
+I'm a student and programmer that loves cats. If you would like to contact me, you can message me on discord @mbymax
 
 # I’m currently working on
 
